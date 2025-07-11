@@ -81,7 +81,7 @@ btn1.addEventListener("click",
             "img/star.png",
             "img/sakura_hanabira.png",
             "img/water1.png",
-            "img/redleaves4.png",
+            "img/redLeaves4.png",
             "img/snowflakes.png"
         ];
         let resultSound = [
