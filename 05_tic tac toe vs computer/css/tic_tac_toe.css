@@ -19,7 +19,12 @@ body {
         "Hiragino Sans",
         Meiryo,
         sans-serif;
-    background: rgb(233, 168, 227);
+    background-blend-mode: soft-light;
+    background-image: url(../img/doodle-6168767_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
     overflow: hidden;
 }
 
@@ -188,5 +193,6 @@ footer>p {
     #msgtext {
         font-size: 20px;
     }
+
 
 }
